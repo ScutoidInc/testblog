@@ -11,4 +11,4 @@ type: featured
 ---
 # Hello World
 
-Hello World!
+Hello World everyone.
