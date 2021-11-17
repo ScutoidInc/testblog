@@ -9,4 +9,5 @@ tags: []
 type: featured
 
 ---
-Hey there! Thanks for stopping by.
+Hey there! Thanks for stopping by.   
+I am Amlan and welcome to my thought bubble.
