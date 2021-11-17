@@ -9,6 +9,4 @@ tags: []
 type: featured
 
 ---
-# Hello World
-
-Hello World everyone.
+Hey there! Thanks for stopping by.
